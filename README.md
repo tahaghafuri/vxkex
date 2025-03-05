@@ -1,6 +1,6 @@
 # Development
-
-Please report issues to speed up the development process and any pull requests are welcome. To make a pull request, first create a conversation to be given access to the private repository.
+Development has stopped; the released version is based on the latest version 1.1.1.1375 by vxiiduu, and the only change is the addition of a number of functions, and the rest of the sections have not been changed.
+<!--Please report issues to speed up the development process and any pull requests are welcome. To make a pull request, first create a conversation to be given access to the private repository.-->
 
 # VxKex - Run Modern Windows Apps on Windows 7
 
