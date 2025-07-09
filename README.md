@@ -1,5 +1,5 @@
 # Development
-I stopped development of this version and am developing https://github.com/tahaghafuri/VxKex-Dev.
+I stopped development of this version and am developing https://github.com/vxkex/vxkex/.
 
 # VxKex - Run Modern Windows Apps on Windows 7
 
