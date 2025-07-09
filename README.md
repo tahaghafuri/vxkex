@@ -1,5 +1,5 @@
 # Development
-Please report issues to speed up the development process and any pull requests are welcome.
+I stopped development of this version and am developing https://github.com/tahaghafuri/VxKex-Dev.
 
 # VxKex - Run Modern Windows Apps on Windows 7
 
