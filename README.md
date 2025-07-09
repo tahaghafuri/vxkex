@@ -1,5 +1,5 @@
 # Development
-Please report issues to speed up the development process and any pull requests are welcome. To make a pull request, first create a conversation to be given access to the private repository.
+Please report issues to speed up the development process and any pull requests are welcome.
 
 # VxKex - Run Modern Windows Apps on Windows 7
 
